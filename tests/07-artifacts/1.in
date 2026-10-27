@@ -1,0 +1,7 @@
+UPLOAD build dist 1024
+UPLOAD test logs 512
+RETENTION_DAYS dist 7
+LIST build
+DOWNLOAD build dist
+EXPIRE 8
+DOWNLOAD build dist

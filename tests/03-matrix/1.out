@@ -1,0 +1,3 @@
+os=linux,python=3.10
+os=linux,python=3.11
+os=mac,python=3.11

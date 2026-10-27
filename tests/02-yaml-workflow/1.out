@@ -1,0 +1,4 @@
+JOB test ON ubuntu-latest
+  STEP RUN pip install -r requirements.txt
+  STEP RUN pytest
+  STEP USES actions/upload-artifact@v3

@@ -1,0 +1,4 @@
+setup: SUCCESS
+build: SUCCESS
+lint: FAILURE
+test: SUCCESS

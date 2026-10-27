@@ -1,0 +1,5 @@
+SECRET API_KEY abc123
+SECRET TOKEN xyz789
+LOG Starting deploy with API_KEY=abc123
+LOG Token: xyz789 (response 200)
+LOG xyz123 has appeared

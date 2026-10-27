@@ -1,0 +1,4 @@
+os: linux,mac
+python: 3.10,3.11
+
+EXCLUDE python=3.10,os=mac

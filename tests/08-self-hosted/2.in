@@ -1,0 +1,3 @@
+REGISTER r1 linux
+JOB j1 gpu
+STATUS

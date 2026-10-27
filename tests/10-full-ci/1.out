@@ -1,0 +1,8 @@
+JOB build: RUNNING
+  compile: SUCCESS - building the project
+JOB test: RUNNING
+  unit: SUCCESS - running tests with DB_PASS=***
+  lint: FAILURE - lint failed
+JOB deploy: RUNNING
+  push: SUCCESS - deploying with DB_PASS=***
+ARTIFACTS: dist=1024,release=2048

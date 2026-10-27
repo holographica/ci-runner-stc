@@ -1,0 +1,4 @@
+UPLOAD build zeta 100
+UPLOAD build alpha 200
+UPLOAD build mid 50
+LIST build

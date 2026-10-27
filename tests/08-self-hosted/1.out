@@ -1,0 +1,6 @@
+RUNNING r1 j1
+RUNNING r2 j2
+QUEUED j3
+RUNNING r1 j3
+r1: busy
+r2: busy

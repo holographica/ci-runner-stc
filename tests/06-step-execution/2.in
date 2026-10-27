@@ -1,0 +1,5 @@
+CONTINUE_ON_ERROR lint
+STEP setup 0
+STEP build 0
+STEP lint 1
+STEP test 0

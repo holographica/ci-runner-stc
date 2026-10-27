@@ -1,0 +1,7 @@
+REGISTER r1 linux
+REGISTER r2 linux,gpu
+JOB j1 linux
+JOB j2 gpu
+JOB j3 linux
+COMPLETE r1
+STATUS

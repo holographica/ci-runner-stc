@@ -1,0 +1,11 @@
+SECRET DB_PASS hunter2
+DEPENDS test build
+DEPENDS deploy test
+STEP build compile 0 building the project
+STEP test unit 0 running tests with DB_PASS=hunter2
+STEP test lint 1 lint failed
+CONTINUE_ON_ERROR test lint
+STEP deploy push 0 deploying with DB_PASS=hunter2
+ARTIFACT build compile dist 1024
+ARTIFACT deploy push release 2048
+RUN

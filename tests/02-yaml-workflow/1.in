@@ -1,0 +1,5 @@
+job: test
+runs-on: ubuntu-latest
+- run: pip install -r requirements.txt
+- run: pytest
+- uses: actions/upload-artifact@v3

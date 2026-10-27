@@ -1,0 +1,50 @@
+{
+  "course": "build-ci-runner",
+  "language": "python",
+  "language_id": 1071,
+  "entrypoint": "main.py",
+  "version": 1,
+  "content_hash": "248ee57cdde8ad58",
+  "lessons": [
+    {
+      "slug": "what-is-ci",
+      "tests_hash": "0bf5a810debf"
+    },
+    {
+      "slug": "yaml-workflow",
+      "tests_hash": "6066e9e18287"
+    },
+    {
+      "slug": "matrix",
+      "tests_hash": "6b55d1bf0e1b"
+    },
+    {
+      "slug": "dependencies",
+      "tests_hash": "0ab4ff22fc06"
+    },
+    {
+      "slug": "git-clone",
+      "tests_hash": "13486d07155f"
+    },
+    {
+      "slug": "step-execution",
+      "tests_hash": "d044aaa1bd6c"
+    },
+    {
+      "slug": "artifacts",
+      "tests_hash": "72f90928fbf6"
+    },
+    {
+      "slug": "self-hosted",
+      "tests_hash": "a2104a4b1ae4"
+    },
+    {
+      "slug": "secrets",
+      "tests_hash": "a7b34011edca"
+    },
+    {
+      "slug": "full-ci",
+      "tests_hash": "838098755d7e"
+    }
+  ]
+}

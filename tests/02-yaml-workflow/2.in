@@ -1,0 +1,4 @@
+job: build
+runs-on: macos-latest
+- uses: actions/checkout@v4
+- run: make all
